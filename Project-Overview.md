@@ -44,3 +44,34 @@ This project demonstrates my ability to deliver **large-scale IT service rollout
 - Structured documentation  
 - Cross-team collaboration  
 - Commitment to client satisfaction and operational excellence
+
+📑 Upgrade Checklist
+Covers:
+Pre-upgrade hardware/user checks
+Windows 10 Enterprise clean install process
+Post-upgrade domain join and app configuration
+Troubleshooting common issues
+
+---
+✅ Common Issues Encountered
+
+HDD failures (replacement required). 
+User data not properly backed up.
+Application incompatibility with Windows 10.
+Domain rejoin/network assignment errors.
+Each issue was resolved by following escalation paths and applying IT support best practices. 
+
+---
+🚀 Relevance to Cloud/Systems Engineering
+Although this project was focused on on-premise OS upgrades, the workflow is directly transferable to cloud migrations:
+OS lifecycle management → Cloud VM migrations
+Domain join & security validation → IAM & access controls
+Manual installs → Automated deployments (future with Intune, SCCM, or CloudFormation)
+Escalation to Networks → VPC/subnet/IPAM troubleshooting in AWS
+
+----
+🔗 Author
+Wisdom Emmanuel (Wyze-digit). 
+# 8+ years in IT Support (Banking & Enterprise IT environments). 
+# Skilled in troubleshooting, cross-team collaboration, and system migrations.
+# Preparing for AWS Solutions Architect Associate → moving towards Cloud & Systems Engineering career path.
